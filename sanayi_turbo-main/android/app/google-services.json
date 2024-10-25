@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914956701319",
+    "project_id": "sanayi-go",
+    "storage_bucket": "sanayi-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914956701319:android:fe83472b02acca18f2b222",
+        "android_client_info": {
+          "package_name": "com.example.sanayi_turbo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFMlZXYbZ3MvWpoNLeNcB_wM8FauiaEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
